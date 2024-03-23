@@ -1,0 +1,281 @@
+Accessories Store:Shop
+Airport Service:Commodities
+Airport Terminal:Commodities
+Airport:Commodities
+Alternative Healer:Commodities
+American Restaurant:Other Restaurants
+Amphitheater:Cultural activities
+Apres Ski Bar:Bar/Coffee
+Aquarium:Indoor activities
+Arcade:Indoor activities
+Art Gallery:Cultural activities
+Art Museum:Cultural activities
+Art Studio:Indoor activities
+Arts & Crafts Store:Shop
+Arts & Entertainment:Indoor activities
+Asian Restaurant:Asian Restaurant
+Assisted Living:Commodities
+Astrologer:Commodities
+Athletics & Sports:Sport activities
+Auto Garage:Commodities
+Auto Workshop:Commodities
+Automotive Shop:Shop
+Baby Store:Shop
+Bakery:Food/Drink Shop
+Bank:Commodities
+Bar:Bar/Coffee
+Bay:Outdoors activities
+BBQ Joint:Other Restaurants
+Beach:Outdoors activities
+Bed & Breakfast:Housing(Hotel Campground...)
+Beer Garden:Bar/Coffee
+Belgian Restaurant:European Restaurant
+Big Box Store:Shop
+Bike Rental / Bike Share:Commodities
+Bike Shop:Shop
+Bistro:Bar/Coffee
+Board Shop:Shop
+Boarding House:Housing(Hotel Campground...)
+Boat or Ferry:Outdoors activities
+Bookstore:Shop
+Botanical Garden:Outdoors activities
+Boutique:Shop
+Bowling Alley:Indoor activities
+Boxing Gym:Indoor activities
+Breakfast Spot:Outdoors activities
+Brewery:Bar/Coffee
+Bridge:Tourism activities
+Buffet:Other Restaurants
+Building:Tourism activities
+Burger Joint:Other Restaurants
+Bus Station:Commodities
+Bus Stop:Commodities
+Business Service:Commodities
+Butcher:Food/Drink Shop
+Cable Car:Tourism activities
+Cafeteria:Other Restaurants
+Café:Bar/Coffee
+Campground:Housing(Hotel Campground...)
+Candy Store:Food/Drink Shop
+Casino:Indoor activities
+Castle:Tourism activities
+Cheese Shop:Food/Drink Shop
+Child Care Service:Commodities
+Chinese Restaurant:Asian Restaurant
+Chocolate Shop:Food/Drink Shop
+Church:Tourism activities
+Circus:Indoor activities
+City Hall:Tourism activities
+City:Tourism activities
+Clothing Store:Shop
+Cocktail Bar:Bar/Coffee
+Coffee Shop:Bar/Coffee
+College Gym:Sport activities
+Comedy Club:Indoor activities
+Comfort Food Restaurant:Other Restaurants
+Concert Hall:Cultural activities
+Convenience Store:Shop
+Convention Center:Cultural activities
+Cosmetics Shop:Shop
+Creperie:European Restaurant
+Dance Studio:Indoor activities
+Daycare:Commodities
+Deli / Bodega:Other Restaurants
+Department Store:Shop
+Design Studio:Indoor activities
+Dessert Shop:Food/Drink Shop
+Diner:Other Restaurants
+Discount Store:Shop
+Dive Bar:Bar/Coffee
+Doctor's Office:Commodities
+Doner Restaurant:Other Restaurants
+Electronics Store:Shop
+Entertainment Service:Commodities
+Event Service:Commodities
+Farm:Outdoors activities
+Farmers Market:Food/Drink Shop
+Fast Food Restaurant:Fast Food
+Financial or Legal Service:Commodities
+Fire Station:Commodities
+Fishing Spot:Outdoors activities
+Flower Shop:Shop
+Fondue Restaurant:European Restaurant
+Food & Drink Shop:Food/Drink Shop
+Food Truck:Other Restaurants
+Food:Other Restaurants
+Forest:Outdoors activities
+French Restaurant:European Restaurant
+Fried Chicken Joint:Other Restaurants
+Fruit & Vegetable Store:Food/Drink Shop
+Funeral Home:Commodities
+Furniture / Home Store:Shop
+Garden Center:Outdoors activities
+Garden:Outdoors activities
+Gas Station:Commodities
+Gastropub:Other Restaurants
+General Entertainment:Indoor activities
+General Travel:Commodities
+Gift Shop:Shop
+Go Kart Track:Indoor activities
+Golf Course:Sport activities
+Gourmet Shop:Food/Drink Shop
+Government Building:Tourism activities
+Grocery Store:Food/Drink Shop
+Gym / Fitness Center:Sport activities
+Gym Pool:Sport activities
+Gym:Sport activities
+Harbor / Marina:Tourism activities
+Hardware Store:Shop
+Health & Beauty Service:Commodities
+Historic Site:Tourism activities
+History Museum:Cultural activities
+Hobby Shop:Shop
+Hockey Arena:Sport activities
+Home Service:Commodities
+Hostel:Housing(Hotel Campground...)
+Hot Dog Joint:Other Restaurants
+Hot Spring:Outdoors activities
+Hotel Bar:Bar/Coffee
+Hotel:Housing(Hotel Campground...)
+Ice Cream Shop:Food/Drink Shop
+Indian Restaurant:Asian Restaurant
+Insurance Office:Commodities
+IT Services:Commodities
+Italian Restaurant:European Restaurant
+Japanese Restaurant:Asian Restaurant
+Jewelry Store:Shop
+Kebab Restaurant:Other Restaurants
+Kids Store:Shop
+Kitchen Supply Store:Shop
+Lake:Outdoors activities
+Lawyer:Commodities
+Light Rail Station:Tourism activities
+Lighting Store:Shop
+Lingerie Store:Shop
+Liquor Store:Food/Drink Shop
+Lounge:Bar/Coffee
+Market:Food/Drink Shop
+Massage Studio:Indoor activities
+Mattress Store:Shop
+Medical Supply Store:Shop
+Mediterranean Restaurant:Other Restaurants
+Men's Store:Shop
+Mexican Restaurant:Other Restaurants
+Middle Eastern Restaurant:Other Restaurants
+Mini Golf:Outdoors activities
+Miscellaneous Shop:Shop
+Mobile Phone Shop:Shop
+Mobility Store:Shop
+Modern European Restaurant:European Restaurant
+Monument / Landmark:Tourism activities
+Moroccan Restaurant:Other Restaurants
+Motel:Housing(Hotel Campground...)
+Motorcycle Shop:Shop
+Mountain Hut:Outdoors activities
+Mountain:Outdoors activities
+Movie Theater:Indoor activities
+Museum:Cultural activities
+Music Store:Shop
+Music Venue:Cultural activities
+National Park:Tourism activities
+Nightclub:Indoor activities
+Nudist Beach:Outdoors activities
+Optical Shop:Shop
+Other Great Outdoors:Outdoors activities
+Other Repair Shop:Shop
+Outdoor Supply Store:Shop
+Outdoors & Recreation:Outdoors activities
+Paper / Office Supplies Store:Shop
+Park:Tourism activities
+Pastry Shop:Food/Drink Shop
+Pedestrian Plaza:Tourism activities
+Persian Restaurant:Other Restaurants
+Pet Service:Commodities
+Pet Store:Shop
+Pharmacy:Commodities
+Photography Studio:Indoor activities
+Pier:Tourism activities
+Pizza Place:European Restaurant
+Playground:Outdoors activities
+Plaza:Tourism activities
+Pool:Sport activities
+Post Office:Commodities
+Print Shop:Shop
+Pub:Bar/Coffee
+Public Art:Cultural activities
+Racetrack:Sport activities
+Rafting:Sport activities
+Real Estate Office:Commodities
+Record Shop:Shop
+Recycling Facility:Commodities
+Rental Car Location:Commodities
+Rental Service:Commodities
+Residential Building (Apartment / Condo):Housing(Hotel Campground...)
+Resort:Sport activities
+Restaurant:Other Restaurants
+River:Tourism activities
+Rock Club:Indoor activities
+Rugby Pitch:Sport activities
+Salon / Barbershop:Shop
+Sandwich Place:Other Restaurants
+Scenic Lookout:Tourism activities
+Science Museum:Cultural activities
+Seafood Restaurant:Other Restaurants
+Shoe Store:Shop
+Shop & Service:Shop
+Shopping Mall:Shop
+Shopping Plaza:Shop
+Skating Rink:Sport activities
+Ski Area:Sport activities
+Ski Chairlift:Tourism activities
+Ski Chalet:Housing(Hotel Campground...)
+Ski Lodge:Housing(Hotel Campground...)
+Ski Shop:Shop
+Ski Trail:Sport activities
+Smoke Shop:Shop
+Snack Place:Other Restaurants
+Soccer Field:Sport activities
+Soccer Stadium:Sport activities
+Soup Place:Other Restaurants
+Spa:Indoor activities
+Spanish Restaurant:European Restaurant
+Sporting Goods Shop:Shop
+Sports Bar:Bar/Coffee
+Sports Club:Sport activities
+Stables:Commodities
+Stadium:Sport activities
+Stationery Store:Shop
+Steakhouse:Other Restaurants
+Summer Camp:Housing(Hotel Campground...)
+Supermarket:Food/Drink Shop
+Sushi Restaurant:Asian Restaurant
+Swiss Restaurant:European Restaurant
+Tailor Shop:Shop
+Tapas Restaurant:European Restaurant
+Tea Room:Bar/Coffee
+Tennis Court:Sport activities
+Tennis Stadium:Sport activities
+Thai Restaurant:Asian Restaurant
+Theater:Cultural activities
+Theme Park Ride / Attraction:Tourism activities
+Theme Park:Tourism activities
+Tourist Information Center:Commodities
+Toy / Game Store:Shop
+Track Stadium:Sport activities
+Trail:Outdoors activities
+Train Station:Commodities
+Tram Station:Commodities
+Travel & Transport:Commodities
+Tree:Tourism activities
+Turkish Restaurant:Other Restaurants
+Video Game Store:Shop
+Vietnamese Restaurant:Asian Restaurant
+Village:Tourism activities
+Vineyard:Tourism activities
+Warehouse Store:Shop
+Water Park:Tourism activities
+Waterfall:Tourism activities
+Wine Bar:Bar/Coffee
+Wine Shop:Food/Drink Shop
+Yoga Studio:Sport activities
+Zoo:Tourism activities
